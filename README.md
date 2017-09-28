@@ -28,9 +28,9 @@ The motivation behind this repository is to show how people are using functional
 
 ## Speakers Directory
 
-| Name | Affiliation | Past Events | Twitter | LinkedIn | GitHub | Notes |
-|------|-------------|-------------|---------|----------|--------|-------|
-| Daniela Petruzalek | globo.com | - | [here](https://twitter.com/danicat83) | [here](https://www.linkedin.com/in/daniela.petruzalek) | [here](https://github.com/danicat) | Enthusiast of FP, works currently with Scala. Go advocate and communtiy organizer. |
+| Name | Affiliation | Twitter | LinkedIn | GitHub | Notes |
+|------|-------------|---------|----------|--------|-------|
+| Daniela Petruzalek | globo.com | [here](https://twitter.com/danicat83) | [here](https://www.linkedin.com/in/daniela.petruzalek) | [here](https://github.com/danicat) | Enthusiast of FP, works currently with Scala. Go advocate and communtiy organizer. |
 
 ## Projects
 
