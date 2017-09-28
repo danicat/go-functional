@@ -10,7 +10,7 @@ The motivation behind this repository is to show how people are using functional
 
 | Date | Event Name | Speaker | Title | Location |
 |------|------------|---------|------------|----------|
-| October 3 | GDG Porto Alegre | Geison Flores | Functional Go | Porto Alegre, RS, Brazil |
+| October 3 | [GDG Porto Alegre](https://www.meetup.com/preview/GDG-Porto-Alegre/events/243399100) | Geison Flores | Functional Go | Porto Alegre, RS, Brazil |
 
 ## Talks
 
