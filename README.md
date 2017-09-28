@@ -1,10 +1,10 @@
 # Go Functional Programming Directory
 
-The purpose of this repo is to consolidate in one place all the information I could find about functional programming in Go.
+The purpose of this repo is to consolidate in one place all the information about functional programming in Go.
 
 ## Functional Programming in Go: Why Should we Care?
 
-The motivation behind this repository is to show how people are using functional programming techniques in Go and provide experience reports to support whether should the Go standard evolves toward the implementation of new functional programming functionalities into the core language.
+The motivation behind this repository is to show how people are using functional programming techniques in Go and provide experience reports to support whether should the Go standard evolve toward the implementation of new functional programming functionalities into the core language.
 
 ## Event Calendar
 
@@ -33,5 +33,7 @@ The motivation behind this repository is to show how people are using functional
 
 ## Projects
 
-| Project Name | Author | Description |
+| Name | Author | Description |
 |--------------|--------|-------------|
+| [go-underscore](https://github.com/tobyhede/go-underscore) | [Toby Hede](https://github.com/tobyhede) | Helpfully Functional Go - A useful collection of Go utilities. Designed for programmer happiness. |
+| [itertools](https://github.com/yanatan16/itertools) | [Jon Eisen](https://github.com/yanatan16) | A golang implementation of the python standard library module. |
