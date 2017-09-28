@@ -18,7 +18,7 @@ The motivation behind this repository is to show how people are using functional
 |------|------------|---------|------|-------|--------|
 | July, 14 2017 | Gophercon 2017 | [Aaron Schlesinger](https://github.com/arschles) | [Functional Programming in Go](https://www.slideshare.net/arschles/functional-programming-in-go) | [here](https://www.youtube.com/watch?v=c8Fwb4KbVJM&list=PL2ntRZ1ySWBdD9bru6IR-_WXUgJqvrtx9&index=11) | - | |
 | November, 9 2015 | dotGo 2015 | [Francesc Campoy](https://github.com/campoy) | Functional Go? | [here](https://www.youtube.com/watch?v=ouyHp2nJl0I) | - |
-| October, 21 2015 | Functional Vilnius | [Svetlana Bozhko](https://github.com/SBozhko) | [Golang from Scala Developers Perspective](https://www.slideshare.net/SvtBozhko/golang-from-scala-developers-perspective) | - |
+| October, 21 2015 | Functional Vilnius | [Svetlana Bozhko](https://github.com/SBozhko) | [Golang from Scala Developers Perspective](https://www.slideshare.net/SvtBozhko/golang-from-scala-developers-perspective) | - | - |
 
 ## Articles
 
